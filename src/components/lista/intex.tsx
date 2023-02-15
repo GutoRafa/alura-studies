@@ -26,4 +26,5 @@ function Lista({tarefas, selecionaTarefa}: Props) {
     )
 }
 
+
 export default Lista;
